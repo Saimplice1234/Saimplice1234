@@ -16,9 +16,11 @@
   <li>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimplice1234&show_icons=true&locale=en&layout=compact" alt="saimplice1234" />
   </li>
+   <li>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimplice1234&show_icons=true&locale=en" alt="saimplice1234" /></p>
+  </li>
 </ul>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimplice1234&show_icons=true&locale=en" alt="saimplice1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimplice1234&" alt="saimplice1234" /></p>
