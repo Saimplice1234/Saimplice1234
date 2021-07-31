@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/saimplicec" target="blank"><img src="https://img.shields.io/twitter/follow/saimplicec?logo=twitter&style=for-the-badge" alt="saimplicec" /></a> </p>
 
-- 🔭 I’m currently working on **Bad Day**
+- 🔭 I’m currently working on **Ethical hacking,React js and Game development**
 - **HackerEarth** https://www.hackerearth.com/@saimpliceudemy/activity/hackerearth/
 
 <h3 align="left">Languages and Tools:</h3>
